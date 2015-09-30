@@ -1,0 +1,2 @@
+C:\Users\James Tuxbury\Desktop\Particles\Particles\Particles\ParticlesContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Portfolio\4003\Particles\Particles\Particles\ParticlesContent\obj\x86\Debug\ParticlesContent.contentprojResolveAssemblyReference.cache

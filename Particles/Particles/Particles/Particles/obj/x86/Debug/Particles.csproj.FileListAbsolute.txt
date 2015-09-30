@@ -1,0 +1,16 @@
+C:\Users\James Tuxbury\Desktop\Particles\Particles\Particles\Particles\bin\x86\Debug\Content\fire_particle.xnb
+C:\Users\James Tuxbury\Desktop\Particles\Particles\Particles\Particles\bin\x86\Debug\Content\myFont.xnb
+C:\Users\James Tuxbury\Desktop\Particles\Particles\Particles\Particles\bin\x86\Debug\Particles.exe
+C:\Users\James Tuxbury\Desktop\Particles\Particles\Particles\Particles\bin\x86\Debug\Particles.pdb
+C:\Users\James Tuxbury\Desktop\Particles\Particles\Particles\Particles\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James Tuxbury\Desktop\Particles\Particles\Particles\Particles\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\James Tuxbury\Desktop\Particles\Particles\Particles\Particles\obj\x86\Debug\Particles.exe
+C:\Users\James Tuxbury\Desktop\Particles\Particles\Particles\Particles\obj\x86\Debug\Particles.pdb
+C:\Portfolio\4003\Particles\Particles\Particles\Particles\bin\x86\Debug\Content\fire_particle.xnb
+C:\Portfolio\4003\Particles\Particles\Particles\Particles\bin\x86\Debug\Content\myFont.xnb
+C:\Portfolio\4003\Particles\Particles\Particles\Particles\bin\x86\Debug\Particles.exe
+C:\Portfolio\4003\Particles\Particles\Particles\Particles\bin\x86\Debug\Particles.pdb
+C:\Portfolio\4003\Particles\Particles\Particles\Particles\obj\x86\Debug\Particles.csprojResolveAssemblyReference.cache
+C:\Portfolio\4003\Particles\Particles\Particles\Particles\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Portfolio\4003\Particles\Particles\Particles\Particles\obj\x86\Debug\Particles.exe
+C:\Portfolio\4003\Particles\Particles\Particles\Particles\obj\x86\Debug\Particles.pdb
